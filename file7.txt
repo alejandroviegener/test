@@ -1,2 +1,3 @@
 line1 added in master
 line2 added in branch
+line2 added in master
